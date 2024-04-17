@@ -1,0 +1,6 @@
+export default {
+  KINDE_ISSUER_URL: "https://azharelahi321.kinde.com",
+  KINDE_POST_CALLBACK_URL: "exp://192.168.10.44:8081",
+  KINDE_CLIENT_ID: "8c490e9aca7a4ae6a1c662d7930c6161",
+  KINDE_POST_LOGOUT_REDIRECT_URL: "exp://192.168.10.44:8081",
+};
