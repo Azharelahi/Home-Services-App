@@ -62,7 +62,7 @@ const Login = () => {
         }}
       >
         <Text style={{ color: Color.WHITE, alignSelf: "center", padding: 15 }}>
-          Sign in
+          Sign In
         </Text>
       </TouchableOpacity>
       <TouchableOpacity style={{ marginTop: "4%", alignSelf: "center" }}>
